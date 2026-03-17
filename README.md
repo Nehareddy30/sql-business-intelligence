@@ -27,24 +27,4 @@ Python · SQLite · Pandas · Matplotlib · Jupyter Notebook
 - Corporate segment has highest revenue per customer
 - All regions show consistent performance
 
-## Author
-Neha Pannala | MS Computer Science
-[LinkedIn](https://www.linkedin.com/in/neha-pannala)
-```
 
-4. Click **"Commit changes"** ✅
-
----
-
-## 💼 Step 5 — Add to LinkedIn
-
-1. Copy your repo link:
-`https://github.com/yourusername/sql-business-intelligence`
-2. Go to LinkedIn → **Featured section** → **"Add a link"**
-3. Title: `SQL Business Intelligence Case Study`
-4. Description:
-```
-Built a full SQL business analysis on a retail database 
-with 2,000 orders. Wrote 7 complex business queries covering 
-revenue, regional performance, customer segments, and 
-discount impact analysis. Tools: SQL, Python, SQLite.
